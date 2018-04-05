@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScreenWidget Free</string>
+    <string name="label_on">Включён</string>
+    <string name="label_off">%1$d мин.</string>
+    <string name="lceck_fail">Недействительная лицензия.</string>
+    <string name="lchecker_prefsname">com.sapphire_project.screenwidgetdemo.LCPREFS</string>
+
+    <string name="lbl_permissions">Вам нужно выдать приложению разрешение на инзменение настроек прежде чем оно сможет работать. Единственная настройка которую оно будет менять - таймаут экрана.</string>
+    <string name="btn_permissions">Настроить разрешение</string>
+    <string name="lbl_addwidget">
+        Для добавления виджета на рабочий стол:\n
+        - Нажмите кнопку домой, чтобы попасть на домашний экран.\n
+        - Нажмите и удерживайте палец в любой пустой области экрана, не занятой иконками.\n
+        - Выберите \"Виджеты\".\n
+        - Найдите виджет \"ScreenWidget Free\".\n
+        - Перетащите его в любое удобное для вас место на домашнем экране.\n
+        - Нажмите на виджет для переключения режима автоотключения питания экрана.\n
+        - Если Вам понравилась программа и Вы желаете приобрести версию с расширенным функционалом и без рекламы, Вы можете купить полную версию.
+    </string>
+    <string name="btn_addwidget">Добавить на Домашний экран</string>
+    <string name="btn_getpro">Купить полную версию</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
+</resources>
