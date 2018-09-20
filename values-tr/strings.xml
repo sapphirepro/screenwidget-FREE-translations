@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ekranımı Uyanık Tut - Ücretsiz Sürüm</string>
+    <string name="label_on">Her zaman açık</string>
+    <string name="label_off">%1$d dk.</string>
+    <string name="lceck_fail">Lisans kontrolü başarısız oldu.</string>
+
+    <string name="lchecker_prefsname">com.sapphire_project.screenwidget.LCPREFS</string>
+
+    <string name="lbl_permissions">Uygulamamı kullanmaya başlamadan önce ekranınızın bekleme süresini ayarlayabilmek için ayarlardan uygulamama izin vermeniz gerekiyor.</string>
+    <string name="btn_permissions">Ayarla</string>
+    <string name="lbl_addwidget"><![CDATA[
+        1. Öncelikle ana ekranına dönmek için ana ekran tuşuna basınız.<br/>
+        2. Daha sonra parmağınızı ekranın boş bir kısmında bir süre basılı tutunuz.<br/>
+        3. Ardından \"Widget'lar\" butonuna basınız.<br/>
+        4. Gelen ekranda \"Ekranımı Açık Tut\" kısayolunu bulana kadar sayfayı kaydırın.<br/>
+        5. Kısayolu bulduktan sonra ana ekranınıza eklemek için kısayola basılı tutun ve ana ekranınızın boş bir kısmına sürükleyin.<br/>
+        6. Artık ekranınızın bekleme süresini değiştirmek için kısayolu kullanmaya başlayabilirsiniz! :)\n]]>
+    </string>
+    <string name="btn_addwidget">Ana Ekrana Ekle</string>
+    <string name="btn_getpro">Tam Sürümü Satın Al</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
+</resources>
