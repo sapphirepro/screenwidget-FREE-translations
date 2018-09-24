@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScreenAwake FREE</string>
+    <string name="label_on">Altijd aan</string>
+    <string name="label_off">%1$d min.</string>
+    <string name="lceck_fail">Licentie-controle mislukt.</string>
+    <string name="lchecker_prefsname">com.sapphire_project.screenwidgetdemo.LCPREFS</string>
+
+    <string name="lbl_permissions">Om de time-out instelling te veranderen heeft deze app toelating nodig om de instellingen van uw apparaat te veranderen, de app veranderd enkel de instelling voor de time-out voor het automatisch uitschakelen van het scherm.</string>
+    <string name="btn_permissions">Instellen</string>
+    <string name="lbl_addwidget_header">Om de widget aan uw startscherm toe te voegen:</string>
+    <string name="lbl_addwidget"><![CDATA[
+        1. Druk op de home toets om naar het startscherm te gaan.<br/>
+        2. Hou voor enkele seconden een plaats waar geen icoon of widget is ingedrukt.<br/>
+        3. Selecteer \"widgets\".<br/>
+        4. Scroll naar de \"ScreenAwake FREE\" widget.\n
+        5. Sleep het naar het startscherm en plaats het waar u het wilt.<br/>
+        6. Druk op de widget om de time-out modus te kiezen.]]>
+    </string>
+    <string name="btn_addwidget">Toevoegen aan startscherm</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
+
+    <!-- Menu items -->
+    <string name="str_menu_settings">Instellingen</string>
+    <string name="str_menu_rate_app">App waarderen</string>
+    <string name="str_menu_share_app">App aanbevelen</string>
+
+    <string name="btn_getpro">Koop de volledige versie</string>
+    <string name="tile_name">Screen Timeout</string>
+</resources>

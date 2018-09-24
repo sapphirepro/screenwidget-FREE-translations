@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lchecker_prefsname">com.sapphire_project.screenwidget.LCPREFS</string>
+    <string name="btn_getpro">Kup pełną wersję</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
+
+    <string name="app_name">ScreenAwake FREE</string>
+    <string name="label_on">Zawsze włączony</string>
+    <string name="label_off">%1$d min.</string>
+    <string name="lceck_fail">Sprawdzenie licencji nie powiodło się</string>
+
+    <string name="lbl_permissions">Aby aplikacja działała poprawnie, należy przyznać pozwolenie na zmianę ustawień systemu, jedyne ustawienie którego używa aplikacja to czas przez jaki ekran będzie włączony.</string>
+    <string name="btn_permissions">Konfiguracja</string>
+    <string name="lbl_addwidget_header">Aby dodać widget do Ekranu Głównego:</string>
+    <string name="lbl_addwidget"><![CDATA[
+        1. Naciśnij przycisk Home, aby wyjść do Ekranu Głównego.<br/>
+        2. Przytrzymaj palec na wolnym obszarze (bez ikon).<br/>
+        3. Wybierz \"Widgets\".<br/>
+        4. Przejdź do \"ScreenAwake FREE\".<br/>
+        5. Przytrzymaj chwilę palec na ikonie widget\'u, aby dodać go do Ekranu Głównego.<br/>
+        6. Klikając ikonę widget\'u wybierz żądany czas przez jaki ekran będzie aktywny.\n]]>
+    </string>
+    <string name="btn_addwidget">Dodaj do Ekranu Głównego</string>
+
+
+    <!-- Menu items -->
+    <string name="str_menu_settings">Ustawienia</string>
+    <string name="str_menu_rate_app">Oceń aplikację</string>
+    <string name="str_menu_share_app">Rekomendowane aplikacje</string>
+    <string name="tile_name">Wygaszanie ekranu</string>
+
+</resources>
