@@ -44,8 +44,8 @@
 <!-- End of Settings localization -->
 
 
-<!-- !!! Important !!! / !!! Önemli !!! -->
-<!-- Dont Translate This String! / Bu Kısmı Çevirmeyin! -->
+<!-- !!! Important !!! -->
+<!-- Dont Translate This String! -->
     <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
-<!-- End of Dont Translate This String! / Bu Kısmı Çevirmeyin! bitişi -->
+<!-- End of Dont Translate This String! -->
 </resources>
