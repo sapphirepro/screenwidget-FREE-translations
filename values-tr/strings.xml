@@ -7,9 +7,11 @@
     <string name="lceck_fail">Lisans kontrolü başarısız oldu.</string>
 	<string name="lchecker_prefsname">com.sapphire_project.screenwidget.LCPREFS</string>
 <!-- End of General app localization / Genel uygulama çevirisi bitişi -->
+
 <!-- Main screen localization / Ana ekran çevirisi -->
     <string name="lbl_permissions">Uygulamamı kullanmaya başlamadan önce ekranınızın bekleme süresini ayarlayabilmek için ayarlardan uygulamama izin vermeniz gerekiyor.</string>
     <string name="btn_permissions">Ayarla</string>
+	<string name="lbl_addwidget_header">Ana ekrana eklemek için kısayol eklemek için:</string>
 	<!-- First Step localization / ilk adım çevirisi -->
 	<string name="lbl_addwidget">
 		<![CDATA[
@@ -22,13 +24,27 @@
 		]]>
 	</string>
 <!-- End of Main screen localization / Ana ekran çevirisi bitişi -->
+
 <!-- Widget localization / Widget çevirisi -->
 	<string name="btn_addwidget">Ana Ekrana Ekle</string>
 <!-- End of Widget localization / Widget çevirisi bitişi -->
+
 <!-- Get Pro Version / Tam Sürümü Al -->
     <string name="btn_getpro">Tam Sürümü Satın Al</string>
 <!-- End of Get Pro Version / Tam Sürümü Al bitişi -->
 
+<!-- Settings localization / Ayarlar yerelleştirmesi -->
+	<!-- Menu items / Menü nesneleri -->
+	<string name="str_menu_settings">Ayarlar</string>
+	<string name="str_menu_rate_app">Uygulamayı derecelendir</string>
+	<string name="str_menu_share_app">Uygulamayı bir başkasına öner</string>
+	
+	<!-- Tile translations / Hızlı erişim kutucuğu -->
+	<string name="tile_name">Ekran Zaman Aşımı</string>
+<!-- End of Settings localization / Ayarlar yerelleştirmesi bitişi -->
+
+
+<!-- !!! Important !!! / !!! Önemli !!! -->
 <!-- Dont Translate This String! / Bu Kısmı Çevirmeyin! -->
     <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
 <!-- End of Dont Translate This String! / Bu Kısmı Çevirmeyin! bitişi -->
