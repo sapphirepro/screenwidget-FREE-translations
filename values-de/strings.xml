@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- General app localization -->
+    <string name="app_name">Keep Screen Awake - Free</string>
+    <string name="label_on">Immer an</string>
+    <string name="label_off">%1$d Min.</string>
+    <string name="lceck_fail">Lizenzüberprüfung fehlgeschlagen</string>
+	<string name="lchecker_prefsname">com.sapphire_project.screenwidget.LCPREFS</string>
+<!-- End of General app localization -->
+
+<!-- Main screen localization -->
+    <string name="lbl_permissions">Sie müssen dieser App die Berechtigung erteilen, Einstellungen zu ändern, bevor sie funktioniert. Die einzige Einstellung, die es ändert, ist das Timeout für den Bildschirm.</string>
+    <string name="btn_permissions">Konfigurieren</string>
+    <string name="lbl_addtile_header">Hinzufügen einer Kachel in den Schnelleinstellungen</string>
+	<!-- First Step localization -->
+    <string name="lbl_addwidget">
+		<![CDATA[
+        1. Drücken Sie die Home-Taste, um zum Startbildschirm zu gelangen.<br/>
+        2. Halten Sie den Finger in einem beliebigen leeren Bereich des Bildschirms, der nicht von den Symbolen besetzt ist.<br/>
+        3. Drücken Sie dann auf \"Widgets\".<br/>
+        4. Finden Sie das Widget \"ScreenWidget\".<br/>
+        5. Ziehen Sie es auf Ihren Startbildschirm an eine beliebige Stelle.<br/>
+        6. Klicken Sie auf das Widget, um den Timeout für den Bildschirm zu ändern.
+		]]>
+    </string>
+<!-- End of Main screen localization -->
+
+<!-- Widget localization -->
+    <string name="btn_addwidget">Zum Startbildschirm hinzufügen</string>
+<!-- End of Widget localization -->
+
+<!-- Get Pro Version -->
+    <string name="btn_getpro">Vollversion kaufen</string>
+<!-- End of Get Pro Version -->
+
+<!-- Settings localization-->
+	<!-- Menu items -->
+    <string name="str_menu_settings">Einstellungen</string>
+    <string name="str_menu_rate_app">App bewerten</string>
+    <string name="str_menu_share_app">App empfehlen</string>
+	
+	<!-- Tile translations -->
+    <string name="tile_name">Bildschirm-Timeout</string>
+<!-- End of Settings localization -->
+
+
+<!-- !!! Important !!! -->
+<!-- Dont Translate This String! -->
+    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
+<!-- End of Dont Translate This String! -->
+</resources>
