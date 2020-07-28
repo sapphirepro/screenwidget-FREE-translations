@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- General app localization -->
+    <string name="app_name">Ενεργή Οθόνη - Ελεύθερος</string>
+    <string name="label_on">Πάντα ενεργή</string>
+    <string name="label_off">%1$d λεπ.</string>
+    <string name="lceck_fail">Αποτυχία ελέγχου αδείας.</string>
+	<string name="lchecker_prefsname">com.sapphire_project.screenwidget.LCPREFS</string>
+<!-- End of General app localization -->
+
+<!-- Main screen localization -->
+    <string name="lbl_permissions">Πρέπει να επιτρέψετε στην εφαρμογή τη δυνατότητα τροποποίησης των ρυθμίσεων συστήματος, για να δουλέψει. Η μόνη ρύθμιση την οποία θα τροποποιήσει είναι ο χρόνος αδράνειας της οθόνης.</string>
+    <string name="btn_permissions">Ρύθμιση</string>
+    <string name="lbl_addwidget_header">Προσθήκη γραφικού στοιχείου (widget) στην αρχική οθόνη</string>
+	<!-- First Step localization -->
+    <string name="lbl_addwidget">
+		<![CDATA[
+        1. Πατήστε το κουμπί αρχικής οθόνης για να μεταβείτε σε αυτήν.<br/>
+        2. Κρατήστε το δάκτυλο σας σε μια περιοχή που δεν έχει κάποιο εικονίδιο.<br/>
+        3. Επιλέξτε \"Γραφικά στοιχεία\".<br/>
+        4. Επιλέξτε το γραφικό στοιχείο \"ScreenWidget\".<br/>
+        5. Σύρετε το και αφήστε το στην περιοχή που επιθυμείτε.<br/>
+        6. Πατήστε το γραφικό στοιχείο για να αλλάξετε το χρόνο αδράνειας της οθόνης.\n
+		]]>
+    </string>
+<!-- End of Main screen localization -->
+
+<!-- Widget localization -->
+    <string name="btn_addwidget">Προσθήκη στην αρχική οθόνη</string>
+<!-- End of Widget localization -->
+
+<!-- Get Pro Version -->
+    <string name="btn_getpro">Αγοράστε την πλήρη έκδοση</string>
+<!-- End of Get Pro Version -->
+
+<!-- Settings localization-->
+	<!-- Menu items -->
+    <string name="str_menu_settings">Ρυθμίσεις</string>
+    <string name="str_menu_rate_app">Βαθμολόγηση εφαρμογής</string>
+    <string name="str_menu_share_app">Προτείνετε την εφαρμογή</string>
+	
+	<!-- Tile translations -->
+    <string name="tile_name">Ενεργή οθόνη</string>
+<!-- End of Settings localization -->
+
+
+<!-- !!! Important !!! -->
+<!-- Dont Translate This String! -->
+    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
+<!-- End of Dont Translate This String! -->
+</resources>
