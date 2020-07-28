@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- General app localization -->
+    <string name="app_name">Keep Screen Awake - Free</string>
+    <string name="label_on">Включений</string>
+    <string name="label_off">%1$d хв.</string>
+    <string name="lceck_fail">Недійсна ліцензія.</string>
+	<string name="lchecker_prefsname">com.sapphire_project.screenwidget.LCPREFS</string>
+<!-- End of General app localization -->
+
+<!-- Main screen localization -->
+    <string name="lbl_permissions">Вам необхідно надати додатку дозвіл на змінення налаштувань перш, ніж він почне працювати. Єдина налаштування, яке він буде змінювати - тайм-аут екрану.</string>
+    <string name="btn_permissions">Налаштування розділення</string>
+    <string name="lbl_addwidget_header">Для додавання віджету на робочий стіл</string>
+	<!-- First Step localization -->
+    <string name="lbl_addwidget">
+		<![CDATA[
+        1. Натисніть кнопку \"До дому\", щоб потрапити на домашній екран.<br/>
+        2. Натисніть та утримуйте пальця у будь-який порожній області екрану, не зайнятій іконками.<br/>
+        3. Оберіть \"Віджети\".<br/>
+        4. Знайдіть віджет \"ScreenWidget\".<br/>
+        5. Перетягніть його у будь-яке зручне для Вас місце на домашньому екрані.<br/>
+        6. Натисніть на віджеті для перемикання режиму автоматичного вимикання екрану.\n
+		]]>
+    </string>
+<!-- End of Main screen localization -->
+
+<!-- Widget localization -->
+    <string name="btn_addwidget">Додати на домашній екран</string>
+<!-- End of Widget localization -->
+
+<!-- Get Pro Version -->
+    <string name="btn_getpro">Купити повну версію</string>
+<!-- End of Get Pro Version -->
+
+<!-- Settings localization-->
+	<!-- Menu items -->
+    <string name="str_menu_settings">Налаштування</string>
+    <string name="str_menu_rate_app">Оцінити додаток</string>
+    <string name="str_menu_share_app">Порекомендувати додаток</string>
+	
+	<!-- Tile translations -->
+    <string name="tile_name">Час очикування екрану</string>
+<!-- End of Settings localization -->
+
+
+<!-- !!! Important !!! -->
+<!-- Dont Translate This String! -->
+    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
+<!-- End of Dont Translate This String! -->
+</resources>

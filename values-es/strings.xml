@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- General app localization -->
+    <string name="app_name">Keep Screen Awake - Free</string>
+    <string name="label_on">Indefinido</string>
+    <string name="label_off">%1$d min.</string>
+    <string name="lceck_fail">Control de licencia fallido.</string>
+	<string name="lchecker_prefsname">com.sapphire_project.screenwidget.LCPREFS</string>
+<!-- End of General app localization -->
+
+<!-- Main screen localization -->
+    <string name="lbl_permissions">Para que funcione correctamente esta app necesita dar permisos para cambiar los ajustes. El único ajuste que se utilizarᠥs el tiempo de apagado de la pantalla.</string>
+    <string name="btn_permissions">Configurar</string>
+    <string name="lbl_addwidget_header">Añadir el widget a la pantalla de inicio</string>
+	<!-- First Step localization -->
+    <string name="lbl_addwidget">
+		<![CDATA[
+        1. Pulse el botón home para ir a la pantalla de inicio.<br/>
+        2. Mantenga su dedo pulsado en una zona que no esté ocupada por un icono.<br/>
+        3. Seleccione \"widgets\".<br/>
+        4. Haga Scroll hasta llegar al widget \"ScreenWidget\".<br/>
+        5. Arrastre y suelte en la parte de la pantalla de inicio donde lo quiere poner.<br/>
+        6. Pulse sobre el widget para cambiar el modo de tiempo de apagado de la pantalla.\n
+		]]>
+    </string>
+<!-- End of Main screen localization -->
+
+<!-- Widget localization -->
+	<string name="btn_addwidget">Añadir a Pantalla Inicio</string>
+<!-- End of Widget localization -->
+
+<!-- Get Pro Version -->
+    <string name="btn_getpro">Compra la version completa</string>
+<!-- End of Get Pro Version -->
+
+<!-- Settings localization-->
+	<!-- Menu items -->
+	<string name="str_menu_settings">Ajustes</string>
+	<string name="str_menu_rate_app">Valorar aplicación</string>
+	<string name="str_menu_share_app">Recomendar aplicación</string>
+	
+	<!-- Tile translations -->
+	<string name="tile_name">Tiempo de Pantalla</string>
+<!-- End of Settings localization -->
+
+
+<!-- !!! Important !!! -->
+<!-- Dont Translate This String! -->
+    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
+<!-- End of Dont Translate This String! -->
+</resources>

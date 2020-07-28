@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- General app localization -->
+    <string name="app_name">Keep Screen Awake - Free</string>
+    <string name="label_on">دائما شغال</string>
+    <string name="label_off">%1$d دقيقة.</string>
+    <string name="lceck_fail">فشل التحقق من الترخيص.</string>
+	<string name="lchecker_prefsname">com.sapphire_project.screenwidget.LCPREFS</string>
+<!-- End of General app localization -->
+
+<!-- Main screen localization -->
+    <string name="lbl_permissions">تحتاج إلى منح هذا التطبيق إذنًا لتغيير الإعدادات قبل أن يعمل ، الإعداد الوحيد الذي سيلمسه هو مهلة الشاشة.</string>
+    <string name="btn_permissions">تهيئة</string>
+    <string name="lbl_addwidget_header">إضافة القطعة إلى الشاشة الرئيسية</string>
+	<!-- First Step localization -->
+    <string name="lbl_addwidget">
+		<![CDATA[
+        1. اضغط على زر الصفحة الرئيسية للوصول إلى الشاشة الرئيسية.<br/>
+        2. اضغط باستمرار على منطقة لا تشغلها أيقونة.<br/>
+        3. تحديد \"widgets\".<br/>
+        4. انتقل إلى \"ScreenWidget\" القطعة.<br/>
+        5. اسحبه وأفلته في الشاشة الرئيسية إلى المكان الذي تريده.<br/>
+        6. انقر على القطعة لتغيير وضع مهلة الشاشة.\n
+		]]>
+    </string>
+<!-- End of Main screen localization -->
+
+<!-- Widget localization -->
+    <string name="btn_addwidget">إضافة إلى الشاشة الرئيسية</string>
+<!-- End of Widget localization -->
+
+<!-- Get Pro Version -->
+    <string name="btn_getpro">شراء النسخة الكاملة</string>
+<!-- End of Get Pro Version -->
+
+<!-- Settings localization-->
+	<!-- Menu items -->
+    <string name="str_menu_settings">الإعدادات</string>
+    <string name="str_menu_rate_app">أعط تقيم لتطبيق</string>
+    <string name="str_menu_share_app">شارك تطبيق</string>
+	
+	<!-- Tile translations -->
+    <string name="tile_name">شاشة المهلة</string>
+<!-- End of Settings localization -->
+
+
+<!-- !!! Important !!! -->
+<!-- Dont Translate This String! -->
+    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
+<!-- End of Dont Translate This String! -->
+</resources>

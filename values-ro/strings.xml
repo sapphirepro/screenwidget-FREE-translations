@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- General app localization -->
+    <string name="app_name">Ecran aprins - Gratuit</string>
+    <string name="label_on">Pemanent aprins</string>
+    <string name="label_off">%1$d min.</string>
+    <string name="lceck_fail">Verificarea licenței a eșuat.</string>
+	<string name="lchecker_prefsname">com.sapphire_project.screenwidget.LCPREFS</string>
+<!-- End of General app localization -->
+
+<!-- Main screen localization -->
+    <string name="lbl_permissions">Trebuie să acordați acestei aplicații permisiunea de a schimba setările înainte ca aceasta să funcționeze, singura setare pe care o va schimba este punerea în pauză a ecranului.</string>
+    <string name="btn_permissions">Configurare</string>
+    <string name="lbl_addwidget_header">Adăugarea widget-ului la ecranul de start</string>
+	<!-- First Step localization -->
+    <string name="lbl_addwidget">
+		<![CDATA[
+		1. Apăsați butonul home pentru a ajunge la ecranul de pornire.<br/>
+        2. Țineți degetul pe o zonă care nu este ocupată de o pictogramă.<br/>
+        3. Selectați \"widgets\".<br/>
+        4. Derulați la \"Widget de ecran\" widget.<br/>
+        5. Glisați-l și plasați-l în ecranul de start până unde doriți.<br/>
+        6. Apăsați pe widget pentru a schimba modul de întrerupere al ecranului.
+		]]>
+    </string>
+<!-- End of Main screen localization -->
+
+<!-- Widget localization -->
+    <string name="btn_addwidget">Adăugați la ecranul principal</string>
+<!-- End of Widget localization -->
+
+<!-- Get Pro Version -->
+    <string name="btn_getpro">Cumpara versiunea completa</string>
+<!-- End of Get Pro Version -->
+
+<!-- Settings localization-->
+	<!-- Menu items -->
+    <string name="str_menu_settings">Setări</string>
+    <string name="str_menu_rate_app">Evaluați aplicația</string>
+    <string name="str_menu_share_app">Recomandați aplicația</string>
+	
+	<!-- Tile translations -->
+    <string name="tile_name">Întrerupere Ecran</string>
+<!-- End of Settings localization -->
+
+
+<!-- !!! Important !!! -->
+<!-- Dont Translate This String! -->
+    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
+<!-- End of Dont Translate This String! -->
+</resources>
