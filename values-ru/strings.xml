@@ -1,51 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!-- General app localization -->
-    <string name="app_name">Keep Screen Awake - Free</string>
+    <string name="app_name">ScreenAwake Free</string>
     <string name="label_on">Включён</string>
     <string name="label_off">%1$d мин.</string>
     <string name="lceck_fail">Недействительная лицензия.</string>
-	<string name="lchecker_prefsname">com.sapphire_project.screenwidget.LCPREFS</string>
-<!-- End of General app localization -->
+    <string name="lchecker_prefsname">com.sapphire_project.screenwidgetdemo.LCPREFS</string>
 
-<!-- Main screen localization -->
     <string name="lbl_permissions">Вам нужно выдать приложению разрешение на инзменение настроек прежде чем оно сможет работать. Единственная настройка которую оно будет менять - таймаут экрана.</string>
     <string name="btn_permissions">Настроить разрешение</string>
     <string name="lbl_addwidget_header">Для добавления виджета на рабочий стол:</string>
-	<!-- First Step localization -->
-    <string name="lbl_addwidget">
-		<![CDATA[
+    <string name="lbl_addwidget"><![CDATA[
         1. Нажмите кнопку Домой, чтобы попасть на домашний экран.<br/>
         2. Нажмите и удерживайте палец в любой пустой области экрана, не занятой иконками.<br/>
         3. Выберите \"Виджеты\".<br/>
         4. Найдите виджет \"ScreenAwake FREE\".<br/>
         5. Перетащите его в любое удобное для Вас место на домашнем экране.<br/>
-        6. Нажмите на виджет для переключения режима автоотключения экрана.\n
-		]]>
+        6. Нажмите на виджет для переключения режима автоотключения экрана.]]>
     </string>
-<!-- End of Main screen localization -->
-
-<!-- Widget localization -->
     <string name="btn_addwidget">Добавить на Домашний экран</string>
-<!-- End of Widget localization -->
-
-<!-- Get Pro Version -->
     <string name="btn_getpro">Купить полную версию</string>
-<!-- End of Get Pro Version -->
+    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
 
-<!-- Settings localization-->
-	<!-- Menu items -->
+    <!-- Menu items -->
     <string name="str_menu_settings">Настройки</string>
     <string name="str_menu_rate_app">Оценить приложение</string>
     <string name="str_menu_share_app">Порекомендовать приложение</string>
-	
-	<!-- Tile translations -->
     <string name="tile_name">Время ожидания экрана</string>
-<!-- End of Settings localization -->
-
-
-<!-- !!! Important !!! -->
-<!-- Dont Translate This String! -->
-    <string name="banner_ad_unit_id">ca-app-pub-2069686917163753/7838780661</string>
-<!-- End of Dont Translate This String! -->
 </resources>
